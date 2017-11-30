@@ -1,6 +1,6 @@
 # Microarray analysis
 
-Thi is a script about GEO and microarrays.
+Thi is a script about GEO, limma and microarrays.
 
 The main objective of this short pipeline is to show a example to call quickly your data. 
 
